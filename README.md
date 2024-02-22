@@ -1,2 +1,8 @@
-# passgenpro
-This tool allows you to generate random passwords with the possibility of choosing quantity, length and other options with the possibility of saving 
+📲 pkg update && pkg upgrade -y
+📲 pkg install python
+📲 pkg install git
+📲 pip install termcolor
+📲 git clone https://github.com/VikingTerminal/passgenpro
+📲 cd passgenpro
+📲 chmod +x passrandpro.py
+📲 python passrandpro.py
